@@ -1,2 +1,2 @@
-# C_plus_plus_practice_13
+# Cars-MPG
 C++ program that sorts and displays data from a txt file and shows info cars MPG.
